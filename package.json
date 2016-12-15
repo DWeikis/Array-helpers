@@ -1,0 +1,27 @@
+{
+  "name": "vue-array-helper",
+  "version": "1.0.0",
+  "description": "A mixin for Vue.js with array helpers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DWeikis/Vue-array-helpers.git"
+  },
+  "keywords": [
+    "vue",
+    "vue-array-helper",
+    "array",
+    "vue-array",
+    "mixins",
+    "vue-mixins"
+  ],
+  "author": "DWeikis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DWeikis/vue-array-helper/issues"
+  },
+  "homepage": "https://github.com/DWeikis/vue-array-helper#readme"
+}
